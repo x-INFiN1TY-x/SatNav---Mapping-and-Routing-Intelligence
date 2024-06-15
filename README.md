@@ -6,6 +6,14 @@ SatNav integrates satellite imagery analysis with Deep learning to enhance urban
 
 SatNav utilizes advanced technologies to process satellite data, employing Deep learning models to extract meaningful insights for urban infrastructure planning. This project focuses on data ingestion, preprocessing, model training, deployment, route optimization, and visualization.
 
+## Technology Stack
+
+- **Data Handling:** Apache Kafka, AWS S3
+- **Data Processing:** AWS Glue, AWS EMR (Apache Spark)
+- **Machine Learning:** TensorFlow
+- **Containerization:** Docker, Kubernetes, AWS EKS
+- **Visualization:** Leaflet
+
 ## Key Features
 
 - **Data Processing:** Utilize Apache Kafka for real-time data streaming, AWS Glue for ETL processes, and Apache Spark on AWS EMR for preprocessing satellite images.
@@ -15,14 +23,6 @@ SatNav utilizes advanced technologies to process satellite data, employing Deep 
 - **Deployment:** Manage model deployment using Docker containers and Kubernetes on AWS EKS, ensuring scalability and reliability.
 
 - **Visualization:** Create interactive map visualizations for urban planning using Leaflet, integrating structure, terrain data, and optimized transport routes.
-
-## Technology Stack
-
-- **Data Handling:** Apache Kafka, AWS S3
-- **Data Processing:** AWS Glue, AWS EMR (Apache Spark)
-- **Machine Learning:** TensorFlow
-- **Containerization:** Docker, Kubernetes, AWS EKS
-- **Visualization:** Leaflet
 
 ## Project Workflow
 
