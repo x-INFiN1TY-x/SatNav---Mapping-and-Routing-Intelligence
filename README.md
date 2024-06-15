@@ -10,7 +10,7 @@ SatNav utilizes advanced technologies to process satellite data, employing Deep 
 
 - **Data Handling:** Apache Kafka, AWS S3
 - **Data Processing:** AWS Glue, AWS EMR (Apache Spark)
-- **Machine Learning:** TensorFlow
+- **Machine Learning:** TensorFlow : U-Net Architecture
 - **Containerization:** Docker, Kubernetes, AWS EKS
 - **Visualization:** Leaflet
 
